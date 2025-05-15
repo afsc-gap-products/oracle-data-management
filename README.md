@@ -1,2 +1,2 @@
 # oracle-data-management
-For all the oracle script misc. 
+This repo was created as a way to document and demystify the beast that is the GAP Oracle database. 
